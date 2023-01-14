@@ -1,12 +1,12 @@
 {
   "redirects": [
     { 
-      "source": "/refer/blind",
+      "source": "/blind",
       "destination": "https://catthepet.net/blinddog/", 
       "statusCode": 301
     },
     { 
-      "source": "/refer/blind",
+      "source": "/blind",
       "destination": "https://catthepet.net/blinddog/", 
       "statusCode": 301
     }
