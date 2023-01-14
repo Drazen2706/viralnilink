@@ -1,14 +1,9 @@
 {
   "redirects": [
     { 
-      "source": "/blind",
-      "destination": "https://catthepet.net/blinddog/", 
-      "statusCode": 301
-    },
-    { 
-      "source": "/blind",
-      "destination": "https://catthepet.net/blinddog/", 
-      "statusCode": 301
+      "source": "/view-source",
+      "destination": "https://github.com/vercel/vercel", 
+      "permanent": true
     }
   ]
 }
